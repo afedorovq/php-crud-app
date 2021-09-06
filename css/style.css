@@ -1,0 +1,35 @@
+table {
+	text-align: center;
+}
+
+.table {
+	margin-bottom: 0 !important;
+}
+
+.add-user-form {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	padding-top: 50px;
+
+	
+}
+
+.add-user-form h2 {
+	margin-bottom: 10px;
+}
+
+.form-column {
+	min-width: 100%;
+}
+
+.form-group {
+	text-align: center;
+	max-width: 350px;
+	margin: auto;
+	margin-bottom: 15px;
+}
+
+.form-group label {
+	margin-bottom: 5px;
+}
